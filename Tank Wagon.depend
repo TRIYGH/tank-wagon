@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1369842453 source:t:\trw\tank wagon\main.cpp
+	<iostream>
+	<string>
+
